@@ -269,6 +269,7 @@ feature_kde_weighted = ['age_ori_weighted','avg_glucose_level_ori_weighted','bmi
 kde_plot(df_matched,feature_kde_weighted,treatment,label_treatment={0: 'LCG-Alike', 1: 'Takers'})
 ```
 ![image](https://github.com/amandaclaradp/coarsened-exact-matching/assets/77821582/a10b52fc-3ee9-463b-bcb8-945b2f4c1737)
+
 Although the size of takers and non-takers differs and their distribution looks different due to the multiplication of features by their weights, on average, they are comparable.
 
 
