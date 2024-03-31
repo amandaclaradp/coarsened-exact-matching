@@ -1,1 +1,1 @@
-# coarsened-exact-matching
+# Coarsened Exact Matching
