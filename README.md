@@ -201,7 +201,8 @@ for var in feature_weighted:
 ![image](https://github.com/amandaclaradp/coarsened-exact-matching/assets/77821582/01db10e1-2b10-4013-bf19-ec5551b9d8df)
 mean of every feature after matching and weighting process is almost same between treatment and control
 
-Standardized Mean Difference (SMD)
+**Standardized Mean Difference (SMD)**
+
 SMD expresses the size of intervention effect relative to the variability. In this case, SMD used to evaluate data after matching (to show the intervention has no effect because there are similar characteristic between treatment and control group)
 
 ***Function for calculating and visualizing SMD:***
